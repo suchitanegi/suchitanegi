@@ -3,10 +3,13 @@ I am an analytics enthusiast with an inclination towards solving complex problem
 - 🔭 Working on analytics project using Python and R with NLP models.
 - 🌱 Learning product and machine learning models in depth.
 <br>
+
 ## Connect with me
-[<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/suchita-negi-12021990/)
+[<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/suchita-negi-12021990)
+
 <br>
 <br>
+
 ## Expertise
 
 <br>
