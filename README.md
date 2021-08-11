@@ -42,7 +42,6 @@ Passionate about working with large amount of data and turn data to insights. I 
 [<img align="left" src="https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white" />]
 
 <br>
-<br>
 <!--
 **suchitanegi/suchitanegi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
