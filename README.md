@@ -4,18 +4,22 @@
 <br>
 A graduate in Business Analytics and analytics enthusiast with an inclination towards solving complex problems using data. 
 Passionate about working with large amount of data and turn data to insights. I also have a keen interest in the field of data visualization and am fascinated by its ability to pack complex datasets into approachable and appealing dashboards.
-<br>  
-### Data Analytics = (Collect + Process + Analyse + Present) DATA
 <br>
+
+## Data Analytics = (Collect + Process + Analyse + Present) DATA
+
+<br>
+
 ## Connect with me
+
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/suchita-negi-12021990)
 
-[<img align="left" alt="Email" src="https://img.shields.io/badge/Email-suchitanegi02%40gmail.com-red" />]
+[<img align="left" alt="Email" src="https://img.shields.io/badge/Email-suchitanegi02%40gmail.com-red" />](suchitanegi02@gmail.com)
 
 <br>
 <br>
 
-## Expertise
+## SKILLS
 
 <br>
 <br>
