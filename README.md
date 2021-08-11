@@ -8,12 +8,9 @@ Passionate about working with large amount of data and turn data to insights. I 
 
 **Data Analytics = (Collect + Process + Analyse + Present) DATA**
 
-<br>
-
 # SKILLS
 
 #### - 𝐃𝐚𝐭𝐚 𝐀𝐧𝐚𝐥𝐲𝐭𝐢𝐜𝐬 𝐚𝐧𝐝 𝐌𝐨𝐝𝐞𝐥𝐢𝐧𝐠: Statistical Analysis, Hypothesis Testing , Marketing Analytics, Machine Learning, Supervised Learning (Regression, Classification, Ensembles), Unsupervised Learning (Clustering, PCA), Deep Learning (CNN,RNN), Natural Language Processing.
-<br>
 
 #### - 𝐏𝐫𝐨𝐠𝐫𝐚𝐦𝐦𝐢𝐧𝐠 𝐋𝐚𝐧𝐠𝐮𝐚𝐠𝐞𝐬 𝐚𝐧𝐝 𝐓𝐨𝐨𝐥𝐬
 
@@ -52,8 +49,6 @@ Passionate about working with large amount of data and turn data to insights. I 
 - 🌱 [**Tableau Data Analyst Badge**](https://www.credly.com/badges/73b7cd5d-7caf-43f0-9bea-077930454840)
 - 🌱 [𝐆𝐨𝐨𝐠𝐥𝐞 𝐀𝐧𝐚𝐥𝐲𝐭𝐢𝐜𝐬 𝐈𝐧𝐝𝐢𝐯𝐢𝐝𝐮𝐚𝐥 𝐂𝐞𝐫𝐭𝐢𝐟𝐢𝐜𝐚𝐭𝐢𝐨𝐧](https://skillshop.exceedlms.com/student/award/cwM4V1mdKrrA6S6Fr4X6H6Bj)
 - 🌱 [**Building Reports in Looker**](https://verify.skilljar.com/c/3xyvj2w73mgb)
-
-<br>
 
 ## Connect with me
 
