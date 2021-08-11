@@ -15,15 +15,25 @@ Passionate about working with large amount of data and turn data to insights. I 
 #### - 𝐏𝐫𝐨𝐠𝐫𝐚𝐦𝐦𝐢𝐧𝐠 𝐋𝐚𝐧𝐠𝐮𝐚𝐠𝐞𝐬 𝐚𝐧𝐝 𝐓𝐨𝐨𝐥𝐬
 
 [<img align="left" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen" />]
+
 [<img align="left" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />]
+
 [<img align="left" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />]
+
 [<img align="left" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />]
+
 [<img align="left" src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" />]
+
 [<img align="left" src="https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white" />]
+
 [<img align="left" src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" />]
+
 [<img align="left" src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252" />]
+
 [<img align="left" src="https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=RStudio&logoColor=white" />]
+
 [<img align="left" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />]
+
 [<img align="left" src="https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white" />]
 
 <br>
@@ -32,15 +42,25 @@ Passionate about working with large amount of data and turn data to insights. I 
 #### - 𝐋𝐢𝐛𝐫𝐚𝐫𝐢𝐞𝐬 𝐚𝐧𝐝 𝐅𝐫𝐚𝐦𝐞𝐰𝐨𝐫𝐤𝐬
 
 [<img align="left" src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" />]
+
 [<img align="left" src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" />]
+
 [<img align="left" src="https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white" />]
+
 [<img align="left" src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />]
+
 [<img align="left" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white" />]
+
 [<img align="left" src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white" />]
+
 [<img align="left" src="https://img.shields.io/badge/Ggplot-777BB4?style=for-the-badge&logo=Keras&logoColor=white" />]
+
 [<img align="left" src="https://img.shields.io/badge/NLTK-00000F?style=for-the-badge&logo=Keras&logoColor=white" />]
+
 [<img align="left" src="https://img.shields.io/badge/Dplyr-75AADB?style=for-the-badge&logo=Keras&logoColor=white" />]
+
 [<img align="left" src="https://img.shields.io/badge/Seaborn-ED8B00?style=for-the-badge&logo=Keras&logoColor=white" />]
+
 [<img align="left" src="https://img.shields.io/badge/Matplotlib-E37400?style=for-the-badge&logo=Keras&logoColor=white" />]
 
 <br>
