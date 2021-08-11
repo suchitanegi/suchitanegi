@@ -4,7 +4,9 @@
 <br>
 
 **A graduate in Business Analytics and analytics enthusiast with an inclination towards solving complex problems using data. 
-Passionate about working with large amount of data and turn data to insights. I also have a keen interest in the field of data visualization and am fascinated by its ability to pack complex datasets into approachable and appealing dashboards.**
+Passionate about working with large amount of data and turn data to insights. I also have a keen interest in the field of data visualization and am fascinated by its ability to pack complex datasets into approachable and appealing dashboards.
+I have experience in SQL, master data management, cross-functional collaboration , excel and project implementation and my interest inclines towards data analytics, visualization and implementing successful resolutions. 
+I am a person who is dedicated towards my work and trustworthy and able thrives in a fast pace environment and want to apply my knowledge, learn explore and take new challenges to grow professionally . **
 
 **Data Analytics = (Collect + Process + Analyse + Present) DATA**
 
