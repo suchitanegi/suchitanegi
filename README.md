@@ -40,6 +40,22 @@ Passionate about working with large amount of data and turn data to insights. I 
 [<img align="left" src="https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white" />]
 <br>
 <br>
+𝐋𝐢𝐛𝐫𝐚𝐫𝐢𝐞𝐬 𝐚𝐧𝐝 𝐅𝐫𝐚𝐦𝐞𝐰𝐨𝐫𝐤𝐬:
+<br>
+[<img align="left" src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" />]
+[<img align="left" src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" />]
+[<img align="left" src="https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white" />]
+[<img align="left" src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />]
+[<img align="left" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white" />]
+[<img align="left" src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white" />]
+[<img align="left" src="https://img.shields.io/badge/Ggplot-777BB4?style=for-the-badge&logo=Keras&logoColor=white" />]
+[<img align="left" src="https://img.shields.io/badge/NLTK-00000F?style=for-the-badge&logo=Keras&logoColor=white" />]
+[<img align="left" src="https://img.shields.io/badge/Dplyr-75AADB?style=for-the-badge&logo=Keras&logoColor=white" />]
+[<img align="left" src="https://img.shields.io/badge/Seaborn-ED8B00?style=for-the-badge&logo=Keras&logoColor=white" />]
+[<img align="left" src="https://img.shields.io/badge/Matplotlib-E37400?style=for-the-badge&logo=Keras&logoColor=white" />]
+
+<br>
+
 <!--
 **suchitanegi/suchitanegi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
