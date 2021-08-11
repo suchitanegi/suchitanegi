@@ -7,9 +7,9 @@ Passionate about working with large amount of data and turn data to insights. I 
 
 <br>
 
-## Data Analytics = (Collect + Process + Analyse + Present) DATA
+**## Data Analytics = (Collect + Process + Analyse + Present) DATA**
 
-## Connect with me
+**## Connect with me**
 
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/suchita-negi-12021990)
 
@@ -17,9 +17,11 @@ Passionate about working with large amount of data and turn data to insights. I 
 
 <br>
 
-## **SKILLS**
+**## **SKILLS****
 
 ## 𝐃𝐚𝐭𝐚 𝐀𝐧𝐚𝐥𝐲𝐭𝐢𝐜𝐬 𝐚𝐧𝐝 𝐌𝐨𝐝𝐞𝐥𝐢𝐧𝐠: Statistical Analysis, Hypothesis Testing , Marketing Analytics, Machine Learning, Supervised Learning (Regression, Classification, Ensembles), Unsupervised Learning (Clustering, PCA), Deep Learning (CNN,RNN), Natural Language Processing.
+
+<br>
 
 ## 𝐏𝐫𝐨𝐠𝐫𝐚𝐦𝐦𝐢𝐧𝐠 𝐋𝐚𝐧𝐠𝐮𝐚𝐠𝐞𝐬 𝐚𝐧𝐝 𝐓𝐨𝐨𝐥𝐬: 
 
@@ -35,6 +37,8 @@ Passionate about working with large amount of data and turn data to insights. I 
 [<img align="left" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />]
 [<img align="left" src="https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white" />]
 
+<br>
+
 ## 𝐋𝐢𝐛𝐫𝐚𝐫𝐢𝐞𝐬 𝐚𝐧𝐝 𝐅𝐫𝐚𝐦𝐞𝐰𝐨𝐫𝐤𝐬:
 
 [<img align="left" src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" />]
@@ -49,6 +53,7 @@ Passionate about working with large amount of data and turn data to insights. I 
 [<img align="left" src="https://img.shields.io/badge/Seaborn-ED8B00?style=for-the-badge&logo=Keras&logoColor=white" />]
 [<img align="left" src="https://img.shields.io/badge/Matplotlib-E37400?style=for-the-badge&logo=Keras&logoColor=white" />]
 
+<br>
 
 <!--
 **suchitanegi/suchitanegi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
