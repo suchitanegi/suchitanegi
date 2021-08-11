@@ -9,7 +9,8 @@ Passionate about working with large amount of data and turn data to insights. I 
 **Data Analytics = (Collect + Process + Analyse + Present) DATA**
 
 <br>
-## SKILLS
+
+# SKILLS
 
 #### - 𝐃𝐚𝐭𝐚 𝐀𝐧𝐚𝐥𝐲𝐭𝐢𝐜𝐬 𝐚𝐧𝐝 𝐌𝐨𝐝𝐞𝐥𝐢𝐧𝐠: Statistical Analysis, Hypothesis Testing , Marketing Analytics, Machine Learning, Supervised Learning (Regression, Classification, Ensembles), Unsupervised Learning (Clustering, PCA), Deep Learning (CNN,RNN), Natural Language Processing.
 
@@ -26,6 +27,7 @@ Passionate about working with large amount of data and turn data to insights. I 
 [<img align="left" src="https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=RStudio&logoColor=white" />]
 [<img align="left" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />]
 [<img align="left" src="https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white" />]
+
 
 #### - 𝐋𝐢𝐛𝐫𝐚𝐫𝐢𝐞𝐬 𝐚𝐧𝐝 𝐅𝐫𝐚𝐦𝐞𝐰𝐨𝐫𝐤𝐬
 
@@ -49,7 +51,6 @@ Passionate about working with large amount of data and turn data to insights. I 
 - 🌱 [**Building Reports in Looker**](https://verify.skilljar.com/c/3xyvj2w73mgb)
 
 <br>
-
 ## Connect with me
 
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/suchita-negi-12021990)
