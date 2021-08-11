@@ -7,7 +7,7 @@
 **I have experience in SQL, master data management, cross-functional collaboration , excel and project implementation and my interest inclines towards data analytics, visualization and implementing successful resolutions.**
 **I am a person who is dedicated towards my work and trustworthy and able thrives in a fast-paced environment and want to apply my knowledge, learn explore and take new challenges to grow professionally.**
 
-**Data Analytics = (Collect + Process + Analyse + Present) DATA**
+#### Data Analytics = (Collect + Process + Analyse + Present) DATA
 
 # SKILLS
 
